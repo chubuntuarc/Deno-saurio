@@ -61,5 +61,6 @@ deno run --allow-net index.ts
 ## DEV Notes
 
 ```
-
+Test from anywhere
+deno run --allow-net https://raw.githubusercontent.com/chubuntuarc/Deno-saurio/main/index.ts
 ```
